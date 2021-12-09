@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876749990429",
+    "project_id": "mitiendapp-b1930",
+    "storage_bucket": "mitiendapp-b1930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876749990429:android:27b0c37225e446ee91b4f4",
+        "android_client_info": {
+          "package_name": "com.example.mitiendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876749990429-3v003a10sk8hv50satpksifhiki7fntt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mitiendapp",
+            "certificate_hash": "c7d546be0e4660424afaef60204285fd7905fe4a"
+          }
+        },
+        {
+          "client_id": "876749990429-ju586ej5pfdbbpv89v1bdtjlptrtpe3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDkf0Yfxbdno3dUf46IQtfv_oH_p3dl9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876749990429-ju586ej5pfdbbpv89v1bdtjlptrtpe3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
